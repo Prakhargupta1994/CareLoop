@@ -1,0 +1,82 @@
+[
+  {
+    "external_id": "SPEC_GP",
+    "name": "General Medicine",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_EM",
+    "name": "Emergency Medicine",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_PULM",
+    "name": "Pulmonology",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_CARD",
+    "name": "Cardiology",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_GASTRO",
+    "name": "Gastroenterology",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_NEURO",
+    "name": "Neurology",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_DERM",
+    "name": "Dermatology",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_OBGYN",
+    "name": "Obstetrics & Gynecology",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_URO",
+    "name": "Urology/Nephrology",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_ENT",
+    "name": "ENT",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_ORTHO",
+    "name": "Orthopedics",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_RHEUM",
+    "name": "Rheumatology",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_ENDO",
+    "name": "Endocrinology",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_OPHTH",
+    "name": "Ophthalmology",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_PSYCH",
+    "name": "Psychiatry",
+    "description": ""
+  },
+  {
+    "external_id": "SPEC_ID",
+    "name": "Infectious Disease",
+    "description": ""
+  }
+]

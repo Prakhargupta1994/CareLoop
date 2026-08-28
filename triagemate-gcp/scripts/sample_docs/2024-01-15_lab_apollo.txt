@@ -1,0 +1,10 @@
+APOLLO DIAGNOSTICS - Bengaluru
+Patient: Anita Rao    Age: 52 F
+Collected: 15-Jan-2024    Fasting sample
+
+TEST                 RESULT      REF RANGE       FLAG
+HbA1c                6.8 %       4.0 - 5.6 %     HIGH
+Fasting glucose      128 mg/dL   70 - 100 mg/dL  HIGH
+LDL cholesterol      142 mg/dL   < 100 mg/dL     HIGH
+
+Comments: Fasting sample. Suggest clinical correlation.

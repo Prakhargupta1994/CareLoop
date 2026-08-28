@@ -1,0 +1,112 @@
+[
+  {
+    "external_id": "SYM_CHEST_PAIN",
+    "name": "Chest pain",
+    "body_system": "Cardiovascular"
+  },
+  {
+    "external_id": "SYM_CHEST_PAIN_RAD",
+    "name": "Chest pain radiating to arm or jaw",
+    "body_system": "Cardiovascular"
+  },
+  {
+    "external_id": "SYM_SWEATING",
+    "name": "Cold sweats",
+    "body_system": "Cardiovascular"
+  },
+  {
+    "external_id": "SYM_PALPITATIONS",
+    "name": "Palpitations",
+    "body_system": "Cardiovascular"
+  },
+  {
+    "external_id": "SYM_SOB",
+    "name": "Shortness of breath",
+    "body_system": "Respiratory"
+  },
+  {
+    "external_id": "SYM_COUGH",
+    "name": "Cough",
+    "body_system": "Respiratory"
+  },
+  {
+    "external_id": "SYM_WHEEZE",
+    "name": "Wheezing",
+    "body_system": "Respiratory"
+  },
+  {
+    "external_id": "SYM_RUNNY_NOSE",
+    "name": "Runny nose",
+    "body_system": "ENT"
+  },
+  {
+    "external_id": "SYM_SNEEZING",
+    "name": "Sneezing",
+    "body_system": "ENT"
+  },
+  {
+    "external_id": "SYM_SORE_THROAT",
+    "name": "Sore throat",
+    "body_system": "ENT"
+  },
+  {
+    "external_id": "SYM_FEVER",
+    "name": "Fever",
+    "body_system": "General"
+  },
+  {
+    "external_id": "SYM_FATIGUE",
+    "name": "Fatigue",
+    "body_system": "General"
+  },
+  {
+    "external_id": "SYM_WEIGHT_LOSS",
+    "name": "Unintentional weight loss",
+    "body_system": "General"
+  },
+  {
+    "external_id": "SYM_THIRST",
+    "name": "Excessive thirst",
+    "body_system": "Endocrine"
+  },
+  {
+    "external_id": "SYM_FREQ_URINATION",
+    "name": "Frequent urination",
+    "body_system": "Endocrine"
+  },
+  {
+    "external_id": "SYM_BLURRED_VISION",
+    "name": "Blurred vision",
+    "body_system": "Neurological"
+  },
+  {
+    "external_id": "SYM_HEADACHE",
+    "name": "Headache",
+    "body_system": "Neurological"
+  },
+  {
+    "external_id": "SYM_NECK_STIFF",
+    "name": "Neck stiffness",
+    "body_system": "Neurological"
+  },
+  {
+    "external_id": "SYM_PHOTOPHOBIA",
+    "name": "Sensitivity to light",
+    "body_system": "Neurological"
+  },
+  {
+    "external_id": "SYM_NAUSEA",
+    "name": "Nausea",
+    "body_system": "Gastrointestinal"
+  },
+  {
+    "external_id": "SYM_ABDO_PAIN_RLQ",
+    "name": "Lower right abdominal pain",
+    "body_system": "Gastrointestinal"
+  },
+  {
+    "external_id": "SYM_VOMITING",
+    "name": "Vomiting",
+    "body_system": "Gastrointestinal"
+  }
+]

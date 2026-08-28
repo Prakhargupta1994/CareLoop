@@ -1,0 +1,302 @@
+[
+  {
+    "external_id": "MAP_CHEST_PAIN_RAD_ACS",
+    "symptom": "SYM_CHEST_PAIN_RAD",
+    "condition": "CON_ACS",
+    "weight": 10
+  },
+  {
+    "external_id": "MAP_CHEST_PAIN_ACS",
+    "symptom": "SYM_CHEST_PAIN",
+    "condition": "CON_ACS",
+    "weight": 7
+  },
+  {
+    "external_id": "MAP_SWEATING_ACS",
+    "symptom": "SYM_SWEATING",
+    "condition": "CON_ACS",
+    "weight": 6
+  },
+  {
+    "external_id": "MAP_SOB_ACS",
+    "symptom": "SYM_SOB",
+    "condition": "CON_ACS",
+    "weight": 5
+  },
+  {
+    "external_id": "MAP_NAUSEA_ACS",
+    "symptom": "SYM_NAUSEA",
+    "condition": "CON_ACS",
+    "weight": 3
+  },
+  {
+    "external_id": "MAP_PALPITATIONS_ACS",
+    "symptom": "SYM_PALPITATIONS",
+    "condition": "CON_ACS",
+    "weight": 3
+  },
+  {
+    "external_id": "MAP_CHEST_PAIN_ANGINA",
+    "symptom": "SYM_CHEST_PAIN",
+    "condition": "CON_ANGINA",
+    "weight": 6
+  },
+  {
+    "external_id": "MAP_CHEST_PAIN_RAD_ANGINA",
+    "symptom": "SYM_CHEST_PAIN_RAD",
+    "condition": "CON_ANGINA",
+    "weight": 4
+  },
+  {
+    "external_id": "MAP_SOB_ANGINA",
+    "symptom": "SYM_SOB",
+    "condition": "CON_ANGINA",
+    "weight": 3
+  },
+  {
+    "external_id": "MAP_FATIGUE_ANGINA",
+    "symptom": "SYM_FATIGUE",
+    "condition": "CON_ANGINA",
+    "weight": 2
+  },
+  {
+    "external_id": "MAP_SOB_PE",
+    "symptom": "SYM_SOB",
+    "condition": "CON_PE",
+    "weight": 8
+  },
+  {
+    "external_id": "MAP_CHEST_PAIN_PE",
+    "symptom": "SYM_CHEST_PAIN",
+    "condition": "CON_PE",
+    "weight": 6
+  },
+  {
+    "external_id": "MAP_PALPITATIONS_PE",
+    "symptom": "SYM_PALPITATIONS",
+    "condition": "CON_PE",
+    "weight": 4
+  },
+  {
+    "external_id": "MAP_COUGH_PE",
+    "symptom": "SYM_COUGH",
+    "condition": "CON_PE",
+    "weight": 2
+  },
+  {
+    "external_id": "MAP_FEVER_MENINGITIS",
+    "symptom": "SYM_FEVER",
+    "condition": "CON_MENINGITIS",
+    "weight": 6
+  },
+  {
+    "external_id": "MAP_NECK_STIFF_MENINGITIS",
+    "symptom": "SYM_NECK_STIFF",
+    "condition": "CON_MENINGITIS",
+    "weight": 10
+  },
+  {
+    "external_id": "MAP_PHOTOPHOBIA_MENINGITIS",
+    "symptom": "SYM_PHOTOPHOBIA",
+    "condition": "CON_MENINGITIS",
+    "weight": 7
+  },
+  {
+    "external_id": "MAP_HEADACHE_MENINGITIS",
+    "symptom": "SYM_HEADACHE",
+    "condition": "CON_MENINGITIS",
+    "weight": 6
+  },
+  {
+    "external_id": "MAP_NAUSEA_MENINGITIS",
+    "symptom": "SYM_NAUSEA",
+    "condition": "CON_MENINGITIS",
+    "weight": 3
+  },
+  {
+    "external_id": "MAP_ABDO_PAIN_RLQ_APPENDICITIS",
+    "symptom": "SYM_ABDO_PAIN_RLQ",
+    "condition": "CON_APPENDICITIS",
+    "weight": 10
+  },
+  {
+    "external_id": "MAP_NAUSEA_APPENDICITIS",
+    "symptom": "SYM_NAUSEA",
+    "condition": "CON_APPENDICITIS",
+    "weight": 4
+  },
+  {
+    "external_id": "MAP_VOMITING_APPENDICITIS",
+    "symptom": "SYM_VOMITING",
+    "condition": "CON_APPENDICITIS",
+    "weight": 4
+  },
+  {
+    "external_id": "MAP_FEVER_APPENDICITIS",
+    "symptom": "SYM_FEVER",
+    "condition": "CON_APPENDICITIS",
+    "weight": 3
+  },
+  {
+    "external_id": "MAP_THIRST_T2DM",
+    "symptom": "SYM_THIRST",
+    "condition": "CON_T2DM",
+    "weight": 8
+  },
+  {
+    "external_id": "MAP_FREQ_URINATION_T2DM",
+    "symptom": "SYM_FREQ_URINATION",
+    "condition": "CON_T2DM",
+    "weight": 8
+  },
+  {
+    "external_id": "MAP_BLURRED_VISION_T2DM",
+    "symptom": "SYM_BLURRED_VISION",
+    "condition": "CON_T2DM",
+    "weight": 5
+  },
+  {
+    "external_id": "MAP_WEIGHT_LOSS_T2DM",
+    "symptom": "SYM_WEIGHT_LOSS",
+    "condition": "CON_T2DM",
+    "weight": 6
+  },
+  {
+    "external_id": "MAP_FATIGUE_T2DM",
+    "symptom": "SYM_FATIGUE",
+    "condition": "CON_T2DM",
+    "weight": 4
+  },
+  {
+    "external_id": "MAP_WHEEZE_ASTHMA",
+    "symptom": "SYM_WHEEZE",
+    "condition": "CON_ASTHMA",
+    "weight": 9
+  },
+  {
+    "external_id": "MAP_SOB_ASTHMA",
+    "symptom": "SYM_SOB",
+    "condition": "CON_ASTHMA",
+    "weight": 6
+  },
+  {
+    "external_id": "MAP_COUGH_ASTHMA",
+    "symptom": "SYM_COUGH",
+    "condition": "CON_ASTHMA",
+    "weight": 4
+  },
+  {
+    "external_id": "MAP_RUNNY_NOSE_URI",
+    "symptom": "SYM_RUNNY_NOSE",
+    "condition": "CON_URI",
+    "weight": 7
+  },
+  {
+    "external_id": "MAP_SORE_THROAT_URI",
+    "symptom": "SYM_SORE_THROAT",
+    "condition": "CON_URI",
+    "weight": 6
+  },
+  {
+    "external_id": "MAP_SNEEZING_URI",
+    "symptom": "SYM_SNEEZING",
+    "condition": "CON_URI",
+    "weight": 5
+  },
+  {
+    "external_id": "MAP_COUGH_URI",
+    "symptom": "SYM_COUGH",
+    "condition": "CON_URI",
+    "weight": 5
+  },
+  {
+    "external_id": "MAP_FEVER_URI",
+    "symptom": "SYM_FEVER",
+    "condition": "CON_URI",
+    "weight": 3
+  },
+  {
+    "external_id": "MAP_FATIGUE_URI",
+    "symptom": "SYM_FATIGUE",
+    "condition": "CON_URI",
+    "weight": 2
+  },
+  {
+    "external_id": "MAP_SNEEZING_ALLERGIC_RHINITIS",
+    "symptom": "SYM_SNEEZING",
+    "condition": "CON_ALLERGIC_RHINITIS",
+    "weight": 7
+  },
+  {
+    "external_id": "MAP_RUNNY_NOSE_ALLERGIC_RHINITIS",
+    "symptom": "SYM_RUNNY_NOSE",
+    "condition": "CON_ALLERGIC_RHINITIS",
+    "weight": 7
+  },
+  {
+    "external_id": "MAP_SORE_THROAT_ALLERGIC_RHINITIS",
+    "symptom": "SYM_SORE_THROAT",
+    "condition": "CON_ALLERGIC_RHINITIS",
+    "weight": 2
+  },
+  {
+    "external_id": "MAP_SORE_THROAT_STREP",
+    "symptom": "SYM_SORE_THROAT",
+    "condition": "CON_STREP",
+    "weight": 8
+  },
+  {
+    "external_id": "MAP_FEVER_STREP",
+    "symptom": "SYM_FEVER",
+    "condition": "CON_STREP",
+    "weight": 5
+  },
+  {
+    "external_id": "MAP_HEADACHE_STREP",
+    "symptom": "SYM_HEADACHE",
+    "condition": "CON_STREP",
+    "weight": 2
+  },
+  {
+    "external_id": "MAP_HEADACHE_MIGRAINE",
+    "symptom": "SYM_HEADACHE",
+    "condition": "CON_MIGRAINE",
+    "weight": 8
+  },
+  {
+    "external_id": "MAP_PHOTOPHOBIA_MIGRAINE",
+    "symptom": "SYM_PHOTOPHOBIA",
+    "condition": "CON_MIGRAINE",
+    "weight": 6
+  },
+  {
+    "external_id": "MAP_NAUSEA_MIGRAINE",
+    "symptom": "SYM_NAUSEA",
+    "condition": "CON_MIGRAINE",
+    "weight": 4
+  },
+  {
+    "external_id": "MAP_BLURRED_VISION_MIGRAINE",
+    "symptom": "SYM_BLURRED_VISION",
+    "condition": "CON_MIGRAINE",
+    "weight": 3
+  },
+  {
+    "external_id": "MAP_VOMITING_GASTROENTERITIS",
+    "symptom": "SYM_VOMITING",
+    "condition": "CON_GASTROENTERITIS",
+    "weight": 7
+  },
+  {
+    "external_id": "MAP_NAUSEA_GASTROENTERITIS",
+    "symptom": "SYM_NAUSEA",
+    "condition": "CON_GASTROENTERITIS",
+    "weight": 6
+  },
+  {
+    "external_id": "MAP_FEVER_GASTROENTERITIS",
+    "symptom": "SYM_FEVER",
+    "condition": "CON_GASTROENTERITIS",
+    "weight": 3
+  }
+]

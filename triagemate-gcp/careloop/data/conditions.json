@@ -1,0 +1,98 @@
+[
+  {
+    "external_id": "CON_ACS",
+    "name": "Acute coronary syndrome",
+    "recommended_specialty": "SPEC_CARD",
+    "triage_priority": "Critical",
+    "is_red_flag": true,
+    "clinical_note": "Time-critical. ECG within 10 minutes, immediate escalation."
+  },
+  {
+    "external_id": "CON_ANGINA",
+    "name": "Stable angina",
+    "recommended_specialty": "SPEC_CARD",
+    "triage_priority": "Urgent",
+    "is_red_flag": false,
+    "clinical_note": "Exertional chest pain relieved by rest. Needs cardiology workup."
+  },
+  {
+    "external_id": "CON_PE",
+    "name": "Pulmonary embolism",
+    "recommended_specialty": "SPEC_PULM",
+    "triage_priority": "Critical",
+    "is_red_flag": true,
+    "clinical_note": "Consider Wells score. Sudden breathlessness with chest pain."
+  },
+  {
+    "external_id": "CON_MENINGITIS",
+    "name": "Meningitis",
+    "recommended_specialty": "SPEC_ID",
+    "triage_priority": "Critical",
+    "is_red_flag": true,
+    "clinical_note": "Fever with neck stiffness and photophobia. Do not delay treatment."
+  },
+  {
+    "external_id": "CON_APPENDICITIS",
+    "name": "Appendicitis",
+    "recommended_specialty": "SPEC_GASTRO",
+    "triage_priority": "Critical",
+    "is_red_flag": true,
+    "clinical_note": "Migratory right lower quadrant pain. Surgical review required."
+  },
+  {
+    "external_id": "CON_T2DM",
+    "name": "Type 2 diabetes mellitus",
+    "recommended_specialty": "SPEC_ENDO",
+    "triage_priority": "Urgent",
+    "is_red_flag": false,
+    "clinical_note": "Classic osmotic symptoms. Check random glucose and HbA1c."
+  },
+  {
+    "external_id": "CON_ASTHMA",
+    "name": "Asthma",
+    "recommended_specialty": "SPEC_PULM",
+    "triage_priority": "Urgent",
+    "is_red_flag": false,
+    "clinical_note": "Episodic wheeze and breathlessness. Assess peak flow."
+  },
+  {
+    "external_id": "CON_URI",
+    "name": "Upper respiratory tract infection",
+    "recommended_specialty": "SPEC_GP",
+    "triage_priority": "Routine",
+    "is_red_flag": false,
+    "clinical_note": "Self-limiting. Supportive care and safety-netting advice."
+  },
+  {
+    "external_id": "CON_ALLERGIC_RHINITIS",
+    "name": "Allergic rhinitis",
+    "recommended_specialty": "SPEC_ENT",
+    "triage_priority": "Routine",
+    "is_red_flag": false,
+    "clinical_note": "Seasonal or perennial. Antihistamine trial."
+  },
+  {
+    "external_id": "CON_STREP",
+    "name": "Streptococcal pharyngitis",
+    "recommended_specialty": "SPEC_GP",
+    "triage_priority": "Routine",
+    "is_red_flag": false,
+    "clinical_note": "Consider Centor score before antibiotics."
+  },
+  {
+    "external_id": "CON_MIGRAINE",
+    "name": "Migraine",
+    "recommended_specialty": "SPEC_NEURO",
+    "triage_priority": "Routine",
+    "is_red_flag": false,
+    "clinical_note": "Recurrent, often unilateral, with photophobia and nausea."
+  },
+  {
+    "external_id": "CON_GASTROENTERITIS",
+    "name": "Gastroenteritis",
+    "recommended_specialty": "SPEC_GP",
+    "triage_priority": "Routine",
+    "is_red_flag": false,
+    "clinical_note": "Hydration is the priority. Safety-net for dehydration."
+  }
+]

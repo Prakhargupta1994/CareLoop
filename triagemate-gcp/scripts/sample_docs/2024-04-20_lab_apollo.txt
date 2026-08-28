@@ -1,0 +1,7 @@
+APOLLO DIAGNOSTICS - Bengaluru
+Patient: Anita Rao    Age: 52 F
+Collected: 20-Apr-2024
+
+TEST                 RESULT      REF RANGE       FLAG
+HbA1c                7.2 %       4.0 - 5.6 %     HIGH
+LDL cholesterol      138 mg/dL   < 100 mg/dL     HIGH

@@ -1,0 +1,12 @@
+# Day 1-2 needs nothing but the standard library. The engine is pure Python
+# by design, so it stays testable with zero cloud dependencies.
+
+google-adk>=2.6.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
+
+# Added on Day 3+ when Drive ingest and the ledger land:
+google-cloud-firestore>=2.16.0
+# google-api-python-client>=2.120.0
+# pypdf>=4.0.0  # only needed to read real PDF documents
+# google-auth-oauthlib>=1.2.0
