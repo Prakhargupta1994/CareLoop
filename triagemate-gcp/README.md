@@ -1,4 +1,15 @@
 # CareLoop
+## Why this matters
+
+In much of the world a single clinician may see 100 to 200 patients a day.
+At that load the bottleneck is not only speed — quality slips. A doctor with
+two minutes per patient can miss the allergy, the rising lab value buried in
+an old report, or the one red flag that mattered.
+
+CareLoop is a force multiplier for doctors where doctors are scarce. It
+consistently surfaces the right history and flags the urgent cases, so
+quality holds up even under that load. It is decision support for a licensed
+clinician — never a diagnosis, and never a replacement for one.
 
 An autonomous clinical-triage agent on Gemini, Google ADK, and Google Cloud.
 Submitted to the All Things Agentic Hackathon (Taskmaster track).
